@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [All](https://github.com/Anjana-Ma);
+- 👨🏽‍💻 I’m currently working on [All](https://github.com/mr-tharuwa);
 - 🌱 I’m currently learning Python Telethon Pyrogram; 
 - 👯 I’m looking to collaborate on [ART OF TECH](https://t.me/Art_of_tech/) 🤝;
 - 🤔 I’m looking for help with Design Pattern 😭;
@@ -33,7 +33,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/kaviya-admin/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Anjana-Ma&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=mr-tharuwa&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
@@ -63,7 +63,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 # MOST USED LANGUAGES
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjana-Ma)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-tharuwa)
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -72,7 +72,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 
 <p align="left">
 <a href="https://t.me/I_AM_401" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="bhanot_kushal" height="60" width="60" /></a> &nbsp;&nbsp;
-<a href="https://github.com/Anjana-Ma" target="blank"><img align="center" src="https://telegra.ph/file/0acebd0ac2573d4e985a0.png" alt="bhanot_kushal" height="60" width="60" /></a> &nbsp;&nbsp;
+<a href="https://github.com/mr-tharuwa" target="blank"><img align="center" src="https://telegra.ph/file/0acebd0ac2573d4e985a0.png" alt="bhanot_kushal" height="60" width="60" /></a> &nbsp;&nbsp;
 <a href="https://youtube.com/channel/UCApXYZNiMdW6UG48-syX7wQ" target="blank"><img align="center" src="https://telegra.ph/file/cea07e3070de14ced918a.png" alt="bhanot_kushal" height="60" width="60" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/anjana.madushanka.106/" target="blank"><img align="center" src="https://telegra.ph/file/eb38891e7e6f1f65b151f.png" alt="kushal.bhanot.98" height="60" width="60" /></a> &nbsp;&nbsp;
 </p>
