@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working on [All](https://github.com/mr-tharuwa);
 - 🌱 I’m currently learning Python Telethon Pyrogram; 
-- 👯 I’m looking to collaborate on [ART OF TECH](https://t.me/mr_tharuwa) 🤝;
+- 👯 I’m looking to collaborate on [TELEGRAM](https://t.me/mr_tharuwa) 🤝;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
