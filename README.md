@@ -71,10 +71,10 @@ Both apis are in trouble due to the number of requests, if you know any other to
 # Find us on
 
 <p align="left">
-<a href="https://t.me/I_AM_401" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="bhanot_kushal" height="60" width="60" /></a> &nbsp;&nbsp;
+<a href="https://t.me/MR_THARUWA" target="blank"><img align="center" src="https://telegra.ph/file/26d2289b53f2b5f183a49.png" alt="bhanot_kushal" height="60" width="60" /></a> &nbsp;&nbsp;
 <a href="https://github.com/mr-tharuwa" target="blank"><img align="center" src="https://telegra.ph/file/0acebd0ac2573d4e985a0.png" alt="bhanot_kushal" height="60" width="60" /></a> &nbsp;&nbsp;
-<a href="https://youtube.com/channel/UCApXYZNiMdW6UG48-syX7wQ" target="blank"><img align="center" src="https://telegra.ph/file/cea07e3070de14ced918a.png" alt="bhanot_kushal" height="60" width="60" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/anjana.madushanka.106/" target="blank"><img align="center" src="https://telegra.ph/file/eb38891e7e6f1f65b151f.png" alt="kushal.bhanot.98" height="60" width="60" /></a> &nbsp;&nbsp;
+<a href="https://youtube.com" target="blank"><img align="center" src="https://telegra.ph/file/cea07e3070de14ced918a.png" alt="bhanot_kushal" height="60" width="60" /></a> &nbsp;&nbsp;
+<a href="https://www.facebook.com//" target="blank"><img align="center" src="https://telegra.ph/file/eb38891e7e6f1f65b151f.png" alt="kushal.bhanot.98" height="60" width="60" /></a> &nbsp;&nbsp;
 </p>
 
 ## Buy me a coffee
